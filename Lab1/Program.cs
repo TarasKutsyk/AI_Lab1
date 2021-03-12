@@ -6,7 +6,7 @@ namespace Lab1
 {
     class Program
     {
-        public const int NumberOfTests = 3;
+        private const int NumberOfTests = 5;
         
         static void Main(string[] args)
         {
